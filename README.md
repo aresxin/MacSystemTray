@@ -2,7 +2,7 @@
 Run QSystemTrayIcon one Mac OSX Sample in qt5.9.1
 
 
-![My image](pehohlva.github.com/MacSystemTray/screenpic.png)
+![My image](https://raw.githubusercontent.com/pehohlva/MacSystemTray/master/screenpic.png)
 
 
 
